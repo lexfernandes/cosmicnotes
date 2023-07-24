@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  gap: 1.3rem;
+  padding: 7.3rem 9.3rem;
+}
+.header h1 {
+  font-family: "Righteous", cursive;
+  font-size: 3rem;
+  font-weight: 400;
+}
