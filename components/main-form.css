@@ -8,6 +8,11 @@
   font-size: 2rem;
   font-weight: 500;
 }
+#my-form p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 3.6rem;
+}
 .input-wrapper label {
   display: block;
   margin-bottom: 1rem;
@@ -28,5 +33,5 @@
   height: 4.2rem;
   border-radius: 8px;
   border: 2px solid #d0d0d0;
-  margin-bottom: 2.8rem;
+  margin-bottom: 1.2rem;
 }
