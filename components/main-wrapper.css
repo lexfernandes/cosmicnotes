@@ -11,6 +11,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  animation: effectmain 3000ms;
 }
 .wrapper a {
   display: block;
