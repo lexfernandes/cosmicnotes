@@ -28,3 +28,6 @@
   font-family: "Nunito Sans", sans-serif;
   margin: 3.7rem 0;
 }
+.wrapper a:hover {
+  box-shadow: 0 0 1rem 0 #30bba4;
+}

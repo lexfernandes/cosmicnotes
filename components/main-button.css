@@ -3,6 +3,12 @@
   flex-direction: column;
   align-items: center;
 }
+.crate-account:hover {
+  box-shadow: 0 0 1rem 0 #30bba4;
+}
+.logon:hover {
+  box-shadow: 0 0 1rem 0 #30bba4;
+}
 .crate-account {
   display: block;
   width: 27rem;
@@ -26,7 +32,6 @@
   height: 5.5rem;
   border-radius: 0.8rem;
   border: 2px solid #30bba4;
-  box-shadow: 0 0 1rem 0 #30bba4;
   padding: 1.4rem 2.3rem;
 }
 .logon {
@@ -55,4 +60,7 @@ button {
   text-align: center;
   cursor: pointer;
   margin-bottom: 3.7rem;
+}
+button:hover {
+  box-shadow: 0 0 1rem 0 #30bba4;
 }
